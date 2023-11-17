@@ -2,4 +2,14 @@
 Welcome to the WIP SvelteKit port of Snazzle, also known as `snazzle-sk`!
 
 # Contributing
-Just fork the repo, run `npm install` and `npm run dev -- --open`, and then add stuff. However, be mindful to comment your code, and then format it with prettier. After that, just submit a PR. that's about it :P
+
+1. Fork the repo
+2. Run:
+   ```
+   npm install
+   npm run dev -- --open
+   ```
+3. Make your changes
+4. [Submit a PR](https://github.com/redstone-dev/snazzle-sk/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)
+
+Just fork the repo, run `npm install` and `npm run dev -- --open`, and then add stuff. However, be mindful to comment your code, and then format it with prettier. After that, just submit a PR.

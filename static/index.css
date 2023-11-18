@@ -1,0 +1,68 @@
+:root {
+    --body-bg-color: #24272E;
+    --section-bg-color: #414651;
+    --text-color: #FFFFFF;
+    --text-sec-color: #AEBDE2;
+    --text-sec-dark: #6f8fe1;
+    --font: system-ui;  
+
+}
+
+body {
+    font-family: var(--font), sans-serif;
+    color: var(--text-color); 
+    padding: 1em;
+    color-scheme: dark;
+    background-color: var(--body-bg-color);
+    font-size: var(--font-size);
+}
+
+section {
+    background-color: var(--section-bg-color);
+    padding: 1em;
+    border-radius: 0.5em;
+    box-shadow: #1f2228 0 0.5em 0.5em;
+    margin-bottom: 0.5em;
+}
+
+textarea {
+    padding: 1em;
+    font-family: var(--font);
+    background: transparent;
+    border: 1px solid var(--text-color);
+    border-radius: 0.5em;
+    resize: vertical;
+}
+
+textarea::placeholder {
+    color: var(--text-sec-color);
+}
+
+textarea:focus {
+    outline: none;
+}
+
+a {
+    color: var(--text-sec-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    color: var(--text-color);
+    text-decoration: none;
+    transition: 0.5s all;
+    border: 1px solid var(--text-color);
+    padding: 0.5em;
+    border-radius: 0.5em;
+    background: none;
+}
+
+button:hover {
+    color: var(--text-sec-dark);
+    background-color: var(--text-color);
+    cursor: pointer;
+}

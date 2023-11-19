@@ -10,7 +10,7 @@ Welcome to the WIP SvelteKit port of Snazzle, also known as `snazzle-sk`!
    npm install
    npm run build
    npm run preview
-```
+   ```
 Then, navigate to the URL it gives you.
 Hit Ctrl-C to exit.
 

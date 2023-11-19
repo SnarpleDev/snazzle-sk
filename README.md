@@ -1,4 +1,6 @@
+![snazzle-banner](https://github.com/SnarpleDev/snazzle-sk/assets/31410740/c05f85b9-3fea-48ea-8ce3-33df6a925566)
 # Snazzle SvelteKit
+
 Welcome to the WIP SvelteKit port of Snazzle, also known as `snazzle-sk`!
 
 # Contributing

@@ -74,3 +74,8 @@ button:hover, select:hover {
 .float.left {
     float: left;
 }
+
+.spacer {
+    margin-right: 50px;
+}
+

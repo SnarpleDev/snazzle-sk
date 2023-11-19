@@ -1,5 +1,10 @@
 <section>
     <h1>Settings</h1>
+    <p>Change various settings</p>
+</section> 
+
+<section id="appearance">
+    <h2>Appearance</h2>
     <form method="POST" action="?/theme">
         <label for="theme">Theme</label>
         <select name="theme">

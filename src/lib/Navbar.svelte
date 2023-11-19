@@ -19,6 +19,7 @@
     <nav>
         <a href="/" class="nav-button">Home</a>
         <a href="/forums" class="nav-button">Forum Browser</a>
+        <a href="/community" class="nav-button">Community Browser</a>
         <a href="/settings" class="nav-button">Settings</a>
         <a href="/feedback" class="float right">Send feedback!</a>
         <!-- <a href="/forums">Forum Browser</a>

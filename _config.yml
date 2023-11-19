@@ -1,3 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
+title: Snazzle SvelteKit
+description: A port of the original alternative Scratch frontend to SvelteKit
+show_downloads: false
 plugins:
 - jekyll-remote-theme

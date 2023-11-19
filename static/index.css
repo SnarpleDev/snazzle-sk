@@ -51,18 +51,26 @@ a:hover {
     text-decoration: underline;
 }
 
-button {
+button, select {
     color: var(--text-color);
     text-decoration: none;
-    transition: 0.5s all;
+    transition: 0.2s all;
     border: 1px solid var(--text-color);
     padding: 0.5em;
     border-radius: 0.5em;
     background: none;
 }
 
-button:hover {
+button:hover, select:hover {
     color: var(--text-sec-dark);
     background-color: var(--text-color);
     cursor: pointer;
+}
+
+.float.right {
+    float: right;
+}
+
+.float.left {
+    float: left;
 }

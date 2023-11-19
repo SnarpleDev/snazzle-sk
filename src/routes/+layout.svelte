@@ -8,8 +8,4 @@
 
 <Navbar />
 
-<slot>
-    <section>
-        <h1>Oops, something went wrong while rendering!</h1>
-    </section>
-</slot>
+<slot></slot>

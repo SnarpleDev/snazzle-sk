@@ -5,6 +5,6 @@ export const actions = {
         const data = await request.formData();
         const feedback = data.get('feedback');
 
-        console.log(feedback?.toString().replace("\n", " "));
+        console.log(feedback?.toString().replace(/\n/g, " "));
     }
 } satisfies Actions

@@ -27,5 +27,3 @@ We are working to be able support these services out of the box upon full releas
    ```
 3. Make your changes
 4. [Submit a PR](https://github.com/redstone-dev/snazzle-sk/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)
-
-Just fork the repo, run `npm install` and `npm run dev -- --open`, and then add stuff. However, be mindful to comment your code, and then format it with Prettier. After that, just submit a PR.

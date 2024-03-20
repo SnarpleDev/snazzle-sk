@@ -1,3 +1,4 @@
+# NOTE: Snazzle SvelteKit is now defunct. Please use the [Flask version of Snazzle instead](https://github.com/SnarpleDev/Snazzle).
 ![snazzle-banner](https://github.com/SnarpleDev/snazzle-sk/assets/31410740/c05f85b9-3fea-48ea-8ce3-33df6a925566)
 # Snazzle SvelteKit
 
